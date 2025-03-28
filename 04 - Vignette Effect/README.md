@@ -1,11 +1,10 @@
-# Julia-set-OpenGL-GLSL
+# Vignette Effect
 
 # Output Link : 
-https://www.youtube.com/watch?v=tA8qqiGf8EIa
+  https://www.youtube.com/watch?v=R8Qw8Jlccig&list=PLcS0ag10H8oas6rbO6rJ83PmMkl_suKaE&index=4
 
 # Description : 
-    The Julia Set Fractal is a type of fractal defined by the behavior of a function that operates on input complex numbers. 
-            A Fractal is a type of mathematical shape that are infinitely complex. In essence, a Fractal is a pattern that repeats forever, and every part of the Fractal, regardless of how zoomed in, or zoomed out you are, it looks very similar to the whole image.
+    The vignette effect is the darkening of an image's corners or edges for artistic purposes. This technique draws the viewer's attention to the center of the image, providing visual contrast and a sense of depth. It's often used in portrait and product photography.
 
 # Reference : Super Bibal 7th ediition 
 
