@@ -1,11 +1,10 @@
-# Julia-set-OpenGL-GLSL
+# Sepia Effect
 
 # Output Link : 
-https://www.youtube.com/watch?v=tA8qqiGf8EIa
+  https://www.youtube.com/watch?v=zBpSUJX8M0M&list=PLcS0ag10H8oas6rbO6rJ83PmMkl_suKaE&index=5
 
 # Description : 
-    The Julia Set Fractal is a type of fractal defined by the behavior of a function that operates on input complex numbers. 
-            A Fractal is a type of mathematical shape that are infinitely complex. In essence, a Fractal is a pattern that repeats forever, and every part of the Fractal, regardless of how zoomed in, or zoomed out you are, it looks very similar to the whole image.
+    The sepia effect stands out as a timeless and evocative tool, adding warmth and a sense of nostalgia to photographs. This classic effect, characterized by its brownish tone, transforms images into reminiscent pieces of art, echoing the days of early photography.
 
 # Reference : Super Bibal 7th ediition 
 
