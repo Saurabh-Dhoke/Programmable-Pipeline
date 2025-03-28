@@ -1,11 +1,10 @@
-# Julia-set-OpenGL-GLSL
+# Desaturation Effect
 
 # Output Link : 
-https://www.youtube.com/watch?v=tA8qqiGf8EIa
+https://www.youtube.com/watch?v=2zNRtp-uTuE&list=PLcS0ag10H8oas6rbO6rJ83PmMkl_suKaE&index=3
 
 # Description : 
-    The Julia Set Fractal is a type of fractal defined by the behavior of a function that operates on input complex numbers. 
-            A Fractal is a type of mathematical shape that are infinitely complex. In essence, a Fractal is a pattern that repeats forever, and every part of the Fractal, regardless of how zoomed in, or zoomed out you are, it looks very similar to the whole image.
+    GreyScaling or Desaturation is the removal of color or the reduction of color vibrancy in an image. 
 
 # Reference : Super Bibal 7th ediition 
 
