@@ -4,9 +4,9 @@
     This repository Programmable-Pipeline  is a collection of projects demonstrating various
     graphics programming techniques,using the OpenGL programmable pipeline. 
     Each project showcases a specific graphical effect or rendering technique implemented through shaders and OpenGL.​
-
+# ------------------------------------------------------------------------------------------------------
 # _Here's an overview of the projects included in the repository:_
-
+# ------------------------------------------------------------------------------------------------------
 # 01 - Solar System:
     Simulates a solar system, likely featuring planets orbiting a star. 
     This project demonstrates hierarchical modeling and transformations in OpenGL to represent celestial movements.​
@@ -36,10 +36,11 @@
     Generates 3D noise textures, useful for creating natural-looking textures like marble, 
     clouds, or terrain. This project demonstrates procedural texture generation techniques using shaders.​
 
+# ------------------------------------------------------------------------------------------------------
+ _The repository primarily contains source code written in C++ and C, with a focus on
+ leveraging OpenGL's capabilities to create these effects. Each project serves as a 
+ practical example of how to implement specific graphical techniques using the programmable pipeline in OpenGL.​_
 
-# _The repository primarily contains source code written in C++ and C, with a focus on
-# leveraging OpenGL's capabilities to create these effects. Each project serves as a 
-# practical example of how to implement specific graphical techniques using the programmable pipeline in OpenGL.​_
-
-# _For detailed information on each project, including implementation details and usage instructions, 
-# please refer to the respective directories and source files within the repository._
+ _For detailed information on each project, including implementation details and usage instructions, 
+ please refer to the respective directories and source files within the repository._
+# ------------------------------------------------------------------------------------------------------
