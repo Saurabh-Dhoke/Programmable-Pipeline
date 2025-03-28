@@ -1,0 +1,12 @@
+
+#include<windows.h>
+
+#include"OGL.h"
+
+MYICON ICON MyIcon.ico    // icon resource
+
+MY_SMILEY_BITMAP BITMAP Smiley.bmp
+
+
+
+
