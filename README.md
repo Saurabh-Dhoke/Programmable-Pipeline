@@ -38,8 +38,8 @@
 
 
   #_The repository primarily contains source code written in C++ and C, with a focus on
-#leveraging OpenGL's capabilities to create these effects. Each project serves as a 
-#practical example of how to implement specific graphical techniques using the programmable pipeline in OpenGL.​_
+leveraging OpenGL's capabilities to create these effects. Each project serves as a 
+practical example of how to implement specific graphical techniques using the programmable pipeline in OpenGL.​_
 
 #_For detailed information on each project, including implementation details and usage instructions, 
-#please refer to the respective directories and source files within the repository._
+please refer to the respective directories and source files within the repository._
