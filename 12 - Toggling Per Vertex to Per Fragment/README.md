@@ -1,5 +1,8 @@
 # 🎨 Per-Vertex and Per-Fragment Phong Lighting on a Colored Sphere using OpenGL
 
+# Output Link : 
+  https://youtu.be/UxX0725vbkc
+  
 # Description : 
       This project showcases dynamic lighting effects using both Per-Vertex 
     (Gouraud) and Per-Fragment (Phong) shading techniques on a colored 3D 
